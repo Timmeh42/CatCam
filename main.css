@@ -1,0 +1,10 @@
+video {
+    width: 400px;
+    height: 300px;
+}
+
+canvas {
+    width: 400px;
+    height: 300px;
+    image-rendering: crisp-edges;
+}
